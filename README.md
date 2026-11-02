@@ -10,7 +10,7 @@
 
 💻 Identifying as a **Backend Developer | Aspiring Fullstack Engineer**
 
-🌱 Currently deepening skills in **Next.js**, **TypeScript** & **Full-Stack Web Development**
+🌱 Currently deepening skills in **Next.js**, **TypeScript**, **Laravel**, **PHP** & **Full-Stack Web Development**
 
 🔥 Passionate about **Data Engineering** — exploring **PySpark** & **Databricks**
 
